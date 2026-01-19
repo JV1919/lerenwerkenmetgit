@@ -1,2 +1,4 @@
 # lerenwerkenmetgit
-leren werken met git 6ICW
+## dit is een test
+leren werken met git 6ICW, we doen ons *best* .
+Straks kopieren we dit **lokaal**
